@@ -1,5 +1,9 @@
 # CSharp DoNothingAndExit
 
+<p align="center">
+  <img src=".github/logo.png" alt="CSharp-DoNothingAndExit logo" width="128" />
+</p>
+
 A minimal C# WPF application with an empty main window. It is used as a
 test fixture for CI/CD pipelines.
 
